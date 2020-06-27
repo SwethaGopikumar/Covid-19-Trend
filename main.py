@@ -12,7 +12,7 @@ import pycountry as pc
 from geotext import GeoText
 
 uri = "bolt://localhost:7687"
-driver = GraphDatabase.driver(uri,auth=("neo4j","saswath"))
+driver = GraphDatabase.driver(uri,auth=("neo4j","****"))
 
 
 
